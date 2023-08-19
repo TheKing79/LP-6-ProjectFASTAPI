@@ -1,0 +1,8 @@
+pytest
+scikit-learn
+fastapi[all]
+pydantic
+uvicorn
+pypi-json
+requests
+pandas
