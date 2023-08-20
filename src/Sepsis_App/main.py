@@ -21,7 +21,7 @@ class Sepsis(BaseModel):
         PlasmaGlucose (int): The plasma glucose level of the individual.
         BloodWorkResult_1 (int): The result of blood work test 1.
         BloodPressure (int): The blood pressure reading of the individual.
-        BloodWorkResult_2 (int): The result of blood work test 2.
+        BloodWorkResult_2 (int): The result of blood work test 2. 
         BloodWorkResult_3 (int): The result of blood work test 3.
         BodyMassIndex (float): The body mass index of the individual.
         BloodWorkResult_4 (float): The result of blood work test 4.
